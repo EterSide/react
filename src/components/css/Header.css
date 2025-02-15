@@ -1,4 +1,30 @@
 .Header {
     display: flex;
-    padding: 10px 10px;
+    padding: 20px 0px;
+    align-items: center;
 }
+
+.Header .img {
+    margin-left: 10px;
+    width: 10%;
+}
+
+.Header .home {
+    width: 5%;
+    cursor: pointer;
+}
+
+.Header .login {
+    width: 5%;
+    cursor: pointer;
+}
+
+.Header .cart {
+    width: 55%;
+}
+
+.Header .search {
+    width: 20%;
+    
+}
+
